@@ -10,7 +10,7 @@
 ###4、局部动画与整体动画。
 
 ##二、好啦不多说，直接上图：
-![Gif](https://github.com/wch0620/DialpadAnimation/raw/master/gif/animation.gif)
+![Gif](https://github.com/wch0620/DialpadAnimation/raw/dial_pad_animation_dev/gif/animation.gif)
 
 ##三、动画：
 ###变形动画：
