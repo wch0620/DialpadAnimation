@@ -50,4 +50,7 @@
 
     }
 ```
+###动画播放：
+可通过AnimatorSet将这些动画组合起来
 
+animatorSet.play(iconAnimation1).with(iconAnimation2).with(iconAnimation3).after(widthAnimation);
