@@ -2,6 +2,7 @@
 
 
 ###最近看到拨号盘的变形动画比较有意思，所以自己动手试试。
+###解压密码，关注微信公众号jike_android,发送DialpadAnimation到公众号即可。
 
 ##一、需要考虑的问题：
 ###1、拨号盘可能会有单卡机型，双卡机型，还会有视频通话，多人会话等。要考虑到全部都兼容的情况。
@@ -10,7 +11,8 @@
 ###4、局部动画与整体动画。
 
 ##二、好啦不多说，直接上图：
-![Gif](https://github.com/wch0620/DialpadAnimation/raw/dial_pad_animation_dev/gif/animation.gif)
+![android](https://github.com/wch0620/DialpadAnimation/raw/master/gif/animation.gif)
+
 
 ##三、动画：
 ###变形动画：
