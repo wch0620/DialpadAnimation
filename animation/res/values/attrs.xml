@@ -1,0 +1,9 @@
+<resources>
+
+    <declare-styleable name="dialpad_animation">
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="dial_background" format="reference" />
+        <attr name="dial_icon" format="reference" />
+    </declare-styleable>
+
+</resources>
