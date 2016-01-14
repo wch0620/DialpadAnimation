@@ -1,4 +1,4 @@
-#拨号盘动画
+#UI_第二弹：拨号盘动画
 
 
 ###最近看到拨号盘的变形动画比较有意思，所以自己动手试试。
@@ -16,7 +16,7 @@
 ![公众号](https://github.com/wch0620/StatusBar/raw/master/WeiXin/qrcode.jpg)
 
 ##三、好啦不多说，直接上图：
-![android](https://github.com/wch0620/DialpadAnimation/raw/master/gif/animation.gif)
+![android](https://github.com/wch0620/DialpadAnimation/raw/dial_pad_animation_dev/gif/animation.gif)
 
 
 ##四、动画：
