@@ -2,7 +2,6 @@
 
 
 ###最近看到拨号盘的变形动画比较有意思，所以自己动手试试。
-###欢迎关注微信公众号：jike_android,了解更多。
 
 ##一、需要考虑的问题：
 ###1、拨号盘可能会有单卡机型，双卡机型，还会有视频通话，多人会话等。要考虑到全部都兼容的情况。
@@ -10,11 +9,17 @@
 ###3、用颜色做背景，颜色渐变，圆角。
 ###4、局部动画与整体动画。
 
-##二、好啦不多说，直接上图：
+###二、微信公众号：
+**关注微信公众号，获取密码，了解更多。**
+**微信公众号：jike_android**
+
+![公众号](https://github.com/wch0620/StatusBar/raw/master/WeiXin/qrcode.jpg)
+
+##三、好啦不多说，直接上图：
 ![android](https://github.com/wch0620/DialpadAnimation/raw/master/gif/animation.gif)
 
 
-##三、动画：
+##四、动画：
 ###变形动画：
 ```
         //step1
@@ -54,5 +59,6 @@
 ```
 ###动画播放：
 可通过AnimatorSet将这些动画组合起来
-
-animatorSet.play(iconAnimation1).with(iconAnimation2).with(iconAnimation3).after(widthAnimation);
+```
+	animatorSet.play(iconAnimation1).with(iconAnimation2).with(iconAnimation3).after(widthAnimation);
+```
